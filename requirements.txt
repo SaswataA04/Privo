@@ -1,0 +1,5 @@
+opencv-contrib-python
+numpy
+PyQt6
+mediapipe==1.2.3
+opencv-contrib-python==5.1.0.95

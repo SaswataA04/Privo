@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project Specific: Datasets
+# Datasets are usually too large for GitHub and often contain private data.
+dataset/
+saswata/
+saswata_auto_v2/
+saswata_new_backup/
+
+# Project Specific: Models & Backups
+# These are large binary files and can be generated/downloaded later.
+model_backups/
+models/*.task
+*.yml
+*.model
+*.dat
+
+# Configuration & Local Settings
+# Never push local paths or API keys.
+settings.json
+
+# Temporary files / Images
+*.jpg
+*.png
+*.jpeg
