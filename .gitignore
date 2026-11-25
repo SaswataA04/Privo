@@ -40,4 +40,6 @@ settings.json
 *.png
 *.jpeg
 
-enroll.py
+/enroll.py
+/enroll_face.py
+/enroll_face_auto.py
