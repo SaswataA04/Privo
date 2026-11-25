@@ -40,4 +40,4 @@ settings.json
 *.png
 *.jpeg
 
-*enroll.py
+enroll.py
