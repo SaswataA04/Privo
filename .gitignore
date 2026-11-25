@@ -43,3 +43,5 @@ settings.json
 /enroll.py
 /enroll_face.py
 /enroll_face_auto.py
+/verify_face_dataset.py
+/retrain_lbph.py
